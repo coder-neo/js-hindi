@@ -18,9 +18,10 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"esbenp.prettier-vscode",
-				"vscode-icons-team.vscode-icons",
-				"wayou.vscode-todo-highlight"
+				"Equinusocio.vsc-material-theme",
+				"Yummygum.city-lights-icon-vsc",
+				"coenraads.bracket-pair-colorizer-2",
+				"akamud.vscode-theme-onedark"
 			],
 			"settings": {
 				"editor.fontSize": 32,
